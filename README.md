@@ -1,5 +1,5 @@
 # CS584_Group51_TwitterHateSpeechRecognition
-cs584 Machine Learning Project:
+CS584 Machine Learning Project:
 
 Team members:
 
