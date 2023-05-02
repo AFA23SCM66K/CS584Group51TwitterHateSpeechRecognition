@@ -13,10 +13,8 @@ Kaagle dataset used: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offe
 
 Steps to be followed :
 
-We have already trained a model and uploaded here "cnnmdl1.h5" !
+We have already trained a model and uploaded here TwitterHateSpeechRecognition.ipynb
 
-Run detection.py and it works.
+If you like to train a model yourself, please run the ipynb file using dataset link or the csv file attached.
 
-If you like to train a model yourself, please run the model.py and use the dataset link provided for the model.
 
-Then you can train the model and later run the detection.py file...
