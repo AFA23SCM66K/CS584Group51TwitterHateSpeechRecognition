@@ -15,6 +15,6 @@ Steps to be followed :
 
 We have already trained a model and uploaded here TwitterHateSpeechRecognition.ipynb
 
-If you like to train a model yourself, please run the ipynb file using dataset link or the csv file attached.
+If you like to train a model yourself, please run the ipynb file using dataset link or the labelled.csv file attached.
 
 
