@@ -1,5 +1,5 @@
 # CS584_Group51_TwitterHateSpeechRecognition
-CS584 Machine Learning Project:
+CS584 Machine Learning Final Project:
 
 Team members:
 
@@ -9,7 +9,9 @@ Sai Reshma Guntimadugu	A20521853		sguntimadugu@hawk.iit.edu
 
 Aditya Sai Kolluru			A20516766		akolluru@hawk.iit.edu
 
+
 Kaagle dataset used: https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset
+
 
 Steps to be followed :
 
